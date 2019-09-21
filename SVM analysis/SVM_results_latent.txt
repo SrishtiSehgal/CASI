@@ -1,0 +1,13 @@
+
+===== SVM CLASSIFIER =====
+
+training
+	 	 | failure | healthy |
+predicted failure | 10762	|	4007|
+predicted healthy | 1	|	157066|
+-------------------------------------------------------------
+testing
+	 	 | failure | healthy |
+predicted failure | 4610	|	892|
+predicted healthy | 3	|	52800|
+-------------------------------------------------------------
